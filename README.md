@@ -79,13 +79,13 @@
 </ul>
 </li>
 <li>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科特林</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kotlin</font></font></p>
 <ul dir="auto">
 <li><a href="https://github.com/dbacinski/Design-Patterns-In-Kotlin"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计模式</font></font></a></li>
 </ul>
 </li>
 <li>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">节点</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node</font></font></p>
 <ul dir="auto">
 <li><a href="https://github.com/nimit95/Real-world-Design-Patterns-Node-JS"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Node.js 的现实世界设计模式</font></font></a></li>
 <li><a href="https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 设计模式</font></font></a></li>
@@ -117,7 +117,7 @@
 </ul>
 </li>
 <li>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反应</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React</font></font></p>
 <ul dir="auto">
 <li><a href="http://krasimirtsonev.com/blog/article/react-js-in-design-patterns" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计模式</font></font></a></li>
 <li><a href="https://github.com/vasanthk/react-bits"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反应位</font></font></a></li>
@@ -125,13 +125,13 @@
 </ul>
 </li>
 <li>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">红宝石</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ruby</font></font></p>
 <ul dir="auto">
 <li><a href="https://github.com/davidgf/design-patterns-in-ruby"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计模式</font></font></a></li>
 </ul>
 </li>
 <li>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">锈</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rust</font></font></p>
 <ul dir="auto">
 <li><a href="https://rust-unofficial.github.io/patterns/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计模式</font></font></a></li>
 </ul>
